@@ -75,11 +75,11 @@ p {
   bottom: 400px;
   right: 250px;
 }
-.button-click:active {
-  border: 3px solid #1A2236;
-}
 .button-click:hover {
   background: white;
   color: #1A2236;
   cursor: pointer;
+}
+.button-click:active {
+  border: 3px solid #1A2236;
 }
